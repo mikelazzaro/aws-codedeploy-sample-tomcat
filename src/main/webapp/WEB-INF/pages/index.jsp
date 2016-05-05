@@ -77,7 +77,7 @@
             <center>&#8594;</center>
           </div>
           <div class="col-sm-4">
-            <center><img src="images/classy-dog1.png" style="width:268px;height:360px;"><center>
+            <center><img src="images/classy-dog1.png" style="width:268px;height:360px;"></center>
           </div>
         </div>
       </div>
